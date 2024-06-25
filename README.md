@@ -39,4 +39,7 @@ SCREENSHOTS OF THE EXECUTION
 
 ![WhatsApp Image 2024-06-25 at 00 17 32_b7f4cbf7](https://github.com/KarenSandova/Wallet_Project/assets/170487464/d7fb8081-e98e-426f-bbf2-2f07e34ed4a7)
 
+![WhatsApp Image 2024-06-25 at 00 28 25](https://github.com/KarenSandova/Wallet_Project/assets/170044920/6084670b-9a8e-4f12-a2ef-7b9a54420d32)
+
+
 

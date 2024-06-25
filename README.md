@@ -1,38 +1,32 @@
-Título	
-- BILLETERA DIGITAL
+qualification
 
-COLABORADORES
-- Sandoval Karen - Usiña Jonathan
+DIGITAL WALLET
 
- Fecha 
-- 25 - 06 - 2024
+COLLABORATORS
 
-  
-Descripción del Proyecto:
-Lo que solicita este problema es programar una billetera digital que sea capaz de recibir un dato de ingreso numérico con 
-dos botones diferentes uno para pagar y otro para vender, dependiendo del botón seleccionado el monto en la billetera aumentará o disminuirá, 
-Es importante señalar que se iniciará con un monto de $100, a su vez, cada acción realizada debe tener un “ID” único, es decir, que no debe repetirse, 
-la fecha y hora en que se realizó la acción y finalmente el monto de dicha acción. Para ello utilizaremos la aplicación “Apache NetBeans IDE” versión 22, 
-con el lenguaje java, versión 17.0.1.
+Sandoval Karen - Usiña Jonathan
 
-Nota:
-Es importante señalar que para que el programa presentado funcione debe tener instalado JDK 17 Y JRE 1.8.
+date
 
-Enlace JDK 17
+25 - 06 - 2024
 
-Recuerda instalar la versión compatible con tu sistema
+Project Description: What this problem requests is to program a digital wallet that is capable of receiving a numerical input data with two different buttons, one to pay and the other to sell, depending on the button selected the amount in the wallet will increase or decrease. It is It is important to note that it will start with an amount of $100, in turn, each action carried out must have a unique “ID”, that is, it must not be repeated, the date and time in which the action was carried out and finally the amount of said action. action. To do this we will use the “Apache NetBeans IDE” application version 22, with the java language, version 17.0.1.
+
+Note: It is important to note that for the presented program to work you must have JDK 17 AND JRE 1.8 installed.
+
+JDK 17 Link
+
+Remember to install the version compatible with your system.
 
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 
-Enlace JRE
+JRE link
 
-Recuerda instalar la versión compatible con tu sistema
+Remember to install the version compatible with your system.
 
 https://www.java.com/es/download/manual.jsp
 
-
-CAPTURAS DE PANTALLA DE LA EJECUCIÓN 
-
+SCREENSHOTS OF THE EXECUTION
 -BOTON DE PAGO 
 ![WhatsApp Image 2024-06-25 at 00 15 48_ee02ff3e](https://github.com/KarenSandova/Wallet_Project/assets/170487464/e6eecfdc-e017-4178-8fc2-9cf35d780867)
 

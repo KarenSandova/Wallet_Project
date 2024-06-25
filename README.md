@@ -1,4 +1,4 @@
-qualification
+Qualification
 
 DIGITAL WALLET
 

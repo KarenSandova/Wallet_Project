@@ -27,15 +27,15 @@ Remember to install the version compatible with your system.
 https://www.java.com/es/download/manual.jsp
 
 SCREENSHOTS OF THE EXECUTION
--BOTON DE PAGO 
+-PAYMENT BUTTON  
 
 ![WhatsApp Image 2024-06-25 at 00 15 48_ee02ff3e](https://github.com/KarenSandova/Wallet_Project/assets/170487464/e6eecfdc-e017-4178-8fc2-9cf35d780867)
 
--BOTON DE VENTA 
+-SALES BUTTON 
 
 ![WhatsApp Image 2024-06-25 at 00 16 06_439b72db](https://github.com/KarenSandova/Wallet_Project/assets/170487464/d81ced45-083c-4ccc-b2fb-1ff55d7dee6f)
 
--SIN FONDOS SUFICIENTES
+-WITHOUT SUFFICIENT FUNDS
 
 ![WhatsApp Image 2024-06-25 at 00 17 32_b7f4cbf7](https://github.com/KarenSandova/Wallet_Project/assets/170487464/d7fb8081-e98e-426f-bbf2-2f07e34ed4a7)
 
